@@ -12,7 +12,9 @@ Jonathan, Corentin, Timothy et  Samuel.
 
 ## Objectif:
 
- BeCode va réaliser des vidéos tutos sur youtube pour aider les personnes à s'inscrire.Ils ont  besoin d'une petite animation de maximum 10 s pour la fin de la vidéo. L'objectif est de réaliser une animation en JQuery
+ BeCode va réaliser des vidéos tutos sur youtube pour aider les personnes à s'inscrire.
+ Ils ont  besoin d'une petite animation de maximum 10 s pour la fin de la vidéo. 
+ L'objectif est de réaliser une animation en JQuery
  
 ## Etapes:
 
