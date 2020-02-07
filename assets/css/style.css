@@ -1,5 +1,6 @@
 body {
       background-color: #212528;
+      overflow: hidden;
 }
 
 #a {
@@ -10,21 +11,21 @@ body {
 #a{
       position: absolute;
       top: 20px;
-      left: 20px;
-      width: 50%;
+      left: 200px;
+      width: 45%;
       height: auto;
 }
 #b{
       position: absolute;
       top: 20px;
-      left: 20px;
-      width: 50%;
+      left: 200px;
+      width: 45%;
       height: auto;
 }
 #c{
       position: absolute;
       top: 20px;
-      left: 20px;
-      width: 50%;
+      left: 200px;
+      width: 45%;
       height: auto;
 }
