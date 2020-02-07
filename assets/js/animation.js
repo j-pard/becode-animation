@@ -1,5 +1,5 @@
 $(function() {
-    var $tt = $("#b"), degree = 0, timer;
+    var $tt = $("#b"), degree = 85, timer;
     rotate();
     function rotate() {
         
@@ -9,13 +9,11 @@ $(function() {
             ++degree; rotate();
         },20);
     }
-    
-    $("input").toggle(function() {
+    var endTimer = setTimeout(function(){ 
         clearTimeout(timer);
-    }, function() {
-        rotate();
-    });
+    }, 5800);
 }); 
+
 $(function() {
     var $tt = $("#a"), degree = 0, timer;
     rotate();
@@ -27,10 +25,8 @@ $(function() {
             --degree; rotate();
         },15);
     }
-    
-    $("input").toggle(function() {
+    var endTimer = setTimeout(function(){ 
         clearTimeout(timer);
-    }, function() {
-        rotate();
-    });
+    }, 5800);
+    
 }); 
