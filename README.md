@@ -28,5 +28,5 @@ Cet exercice à été réalisé dans le cadre de la formation Becode Charleroi
 ## difficultés rencontrées: 
 
 La difficulté principale à été de  trouver le bon découpage et la bonne supperposition d'images.
-La recherche de l'animation de  rotation a également été difficulté.
+La recherche de l'animation de  rotation a également été une difficulté.
 
