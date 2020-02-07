@@ -2,16 +2,29 @@ body {
       background-color: #212528;
 }
 
-img {
+#a {
+      border: 10px solid white;
+      border-radius: 5555555px;
+}
+
+#a{
       position: absolute;
       top: 20px;
       left: 20px;
       width: 50%;
       height: auto;
 }
-
-#a {
-      border: 10px solid white;
-      border-radius: 5555555px;
+#b{
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      width: 50%;
+      height: auto;
 }
-
+#c{
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      width: 50%;
+      height: auto;
+}
