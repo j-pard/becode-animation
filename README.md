@@ -1,8 +1,8 @@
-# becode-animation:
+# Becode-animation:
 
-Animation du logo BeCode
+Animation du logo BeCode.
 
-## réalisé par:
+## Réalisé par:
 
 Jonathan, Corentin, Timothy et  Samuel.
 
@@ -16,17 +16,17 @@ Jonathan, Corentin, Timothy et  Samuel.
  
 ## Etapes:
 
-Concertation d'équipe
-Etudier la demande (quoi, pourquoi ?)
-UX Prototype
+Concertation d'équipe.
+Etudier la demande (quoi, pourquoi ?).
+UX Prototype.
 Le code ...
 
-## cadre de cette réalisation: 
+## Cadre de cette réalisation: 
 
-Cet exercice à été réalisé dans le cadre de la formation Becode Charleroi
+Cet exercice à été réalisé dans le cadre de la formation Becode Charleroi.
 
-## difficultés rencontrées: 
+## Difficultés rencontrées: 
 
 La difficulté principale à été de  trouver le bon découpage et la bonne supperposition d'images.
-La recherche de l'animation de  rotation a également été une difficulté.
+La recherche de l'animation de rotation a également été une difficulté.
 
